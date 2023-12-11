@@ -1,0 +1,1 @@
+#define BACKGROUND_COLOR_BLACK 
